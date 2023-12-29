@@ -6,7 +6,7 @@ Compose app implementing Google's Gemini Pro Model (Text and Image)
 ### Supported Platforms: 
 * Android
 
-<img src = "demo/Screen_recording_20231229_204120" width ="250" /> <img src = "demo/Screenshot_20231229_204409" width ="250" />
+<img src = "demo/Screen_recording_20231229_204120.mp4" width ="250" /> <img src = "demo/Screenshot_20231229_204409.png" width ="250" />
 
 
 
